@@ -1,0 +1,21 @@
+h1{
+	color:blue;
+	font-family:arial;
+	font-variant:small-caps;
+	font-size:50px;
+	text-shadow:2px 2px 5px yellow;
+	background-color:skyblue;
+	border:5px solid black;
+}
+p{
+	color:red;
+	text-indent:50px;
+	font-size:35px;
+	word-spacing:5px;
+	font-family:arial;
+	line-height:1.5;
+	font-weight:italic;
+	background-color:pink;
+	border:5px solid black;
+}
+	
