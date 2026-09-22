@@ -1,0 +1,18 @@
+h1{
+	border-style:double;
+	border-color:black;
+	border-width:thick;
+}
+p{
+	font-size:25px;
+	border-style:solid;
+	border-top-width:thin;
+	border-bottom-width:thin;
+	/*border-left-width:thin;*/
+	/*border-right-width:thin;*/
+	border-top:3px dotted;
+	border-bottom:3px dotted;
+	border-collapse:collapse;
+	border-radius:3px;
+}
+	
