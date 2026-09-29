@@ -1,0 +1,9 @@
+table{
+	background-color:yellow;
+	text-shadow: 1px 1px 1px;
+	border: double 10px;
+}
+#time{
+	color:black;
+	font-family:arial;
+}
